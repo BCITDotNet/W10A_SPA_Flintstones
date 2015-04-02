@@ -1,0 +1,18 @@
+F:\MZE\EDU\4870\Flintstones\FlintstonesClient\bin\FlintstonesClient.dll.config
+F:\MZE\EDU\4870\Flintstones\FlintstonesClient\bin\FlintstonesClient.dll
+F:\MZE\EDU\4870\Flintstones\FlintstonesClient\bin\FlintstonesClient.pdb
+F:\MZE\EDU\4870\Flintstones\FlintstonesClient\obj\Debug\FlintstonesClient.csprojResolveAssemblyReference.cache
+F:\MZE\EDU\4870\Flintstones\FlintstonesClient\obj\Debug\FlintstonesClient.dll
+F:\MZE\EDU\4870\Flintstones\FlintstonesClient\obj\Debug\FlintstonesClient.pdb
+F:\OneDrive\BCIT\_4870_2015\Lessons\w10 - MVC and AJAX\B-MVC and AJAX\Flintstones\FlintstonesClient\bin\FlintstonesClient.dll.config
+F:\OneDrive\BCIT\_4870_2015\Lessons\w10 - MVC and AJAX\B-MVC and AJAX\Flintstones\FlintstonesClient\bin\FlintstonesClient.dll
+F:\OneDrive\BCIT\_4870_2015\Lessons\w10 - MVC and AJAX\B-MVC and AJAX\Flintstones\FlintstonesClient\bin\FlintstonesClient.pdb
+F:\OneDrive\BCIT\_4870_2015\Lessons\w10 - MVC and AJAX\B-MVC and AJAX\Flintstones\FlintstonesClient\obj\Debug\FlintstonesClient.csprojResolveAssemblyReference.cache
+F:\OneDrive\BCIT\_4870_2015\Lessons\w10 - MVC and AJAX\B-MVC and AJAX\Flintstones\FlintstonesClient\obj\Debug\FlintstonesClient.dll
+F:\OneDrive\BCIT\_4870_2015\Lessons\w10 - MVC and AJAX\B-MVC and AJAX\Flintstones\FlintstonesClient\obj\Debug\FlintstonesClient.pdb
+D:\Work\4976\w10\Flintstones\FlintstonesClient\bin\FlintstonesClient.dll.config
+D:\Work\4976\w10\Flintstones\FlintstonesClient\bin\FlintstonesClient.dll
+D:\Work\4976\w10\Flintstones\FlintstonesClient\bin\FlintstonesClient.pdb
+D:\Work\4976\w10\Flintstones\FlintstonesClient\obj\Debug\FlintstonesClient.csprojResolveAssemblyReference.cache
+D:\Work\4976\w10\Flintstones\FlintstonesClient\obj\Debug\FlintstonesClient.dll
+D:\Work\4976\w10\Flintstones\FlintstonesClient\obj\Debug\FlintstonesClient.pdb
